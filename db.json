@@ -300,16 +300,44 @@
       "created_at": "2023-09-10T16:00:00Z"
     },
     {
-      "title": "qweqwe",
-      "createdAt": "2026-02-03T15:47:55.066Z",
-      "updatedAt": "2026-02-03T15:47:55.066Z",
-      "id": 11
+      "student_code": "ph614134",
+      "full_name": "Ngô Đức Duy",
+      "email": "Client1@gmail.com",
+      "phone": "0974179187",
+      "createdAt": "2026-02-04T05:33:56.199Z",
+      "updatedAt": "2026-02-04T05:33:56.199Z",
+      "id": 14
     },
     {
-      "title": "asdsdads",
-      "createdAt": "2026-02-03T15:48:01.992Z",
-      "updatedAt": "2026-02-03T15:48:01.992Z",
-      "id": 12
+      "student_code": "ph614134",
+      "full_name": "Ngô Đức Duy",
+      "email": "demo@gmail.com",
+      "phone": "0974179187",
+      "gender": "Nam",
+      "date_of_birth": "2006-01-12",
+      "citizen_id": "03885762323",
+      "address": "Thôn 3  vũ hào kiến xương thái bình ",
+      "current_education": {
+        "university_major": "Công nghệ thông tin",
+        "class_name": "Wd20307",
+        "enrollment_year": 2024,
+        "study_mode": "ádasd",
+        "current_semester": -2
+      },
+      "previous_education": {
+        "college_name": "fpt polyticnic",
+        "graduation_year": 2006,
+        "college_gpa": 7,
+        "degree_rank": "khá",
+        "graduation_certificate_id": "ád"
+      },
+      "transfer_info": {
+        "exempted_credits": 3,
+        "required_credits": 2
+      },
+      "createdAt": "2026-02-04T05:38:53.012Z",
+      "updatedAt": "2026-02-04T05:38:53.012Z",
+      "id": 15
     }
   ]
 }

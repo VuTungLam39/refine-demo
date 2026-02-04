@@ -115,14 +115,14 @@ export default async function RootLayout({
             <AntdRegistry>
               <ColorModeContextProvider defaultMode={defaultMode}>
                 <DevtoolsProvider>
-                  <Menu
+                  {/* <Menu
                     // onClick={onClick}
                     style={{ width: 256 }}
                     defaultSelectedKeys={['1']}
                     defaultOpenKeys={['sub1']}
                     mode="inline"
                     items={items}
-                  />
+                  /> */}
                   <Refine
                     routerProvider={routerProvider}
                     dataProvider={dataProvider}
