@@ -85,7 +85,6 @@ export const authProviderClient: AuthProvider = {
         logout: true,
       };
     }
-
     return { error };
   },
 };
