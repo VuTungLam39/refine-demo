@@ -338,6 +338,17 @@
       "createdAt": "2026-02-04T05:38:53.012Z",
       "updatedAt": "2026-02-04T05:38:53.012Z",
       "id": 15
+    },
+    {
+      "student_code": "ph614134",
+      "full_name": "Ngô Đức Duy",
+      "phone": "ádasdasdasd",
+      "current_education": {},
+      "previous_education": {},
+      "transfer_info": {},
+      "createdAt": "2026-02-04T05:51:30.298Z",
+      "updatedAt": "2026-02-04T05:51:30.298Z",
+      "id": 16
     }
   ]
 }
