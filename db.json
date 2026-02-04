@@ -1,0 +1,301 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "student_code": "PH12345",
+      "full_name": "Nguyễn Văn Hùng",
+      "email": "hungnv@fpt.edu.vn",
+      "phone": "0981111111",
+      "gender": "Nam",
+      "date_of_birth": "2002-03-10",
+      "citizen_id": "001202001234",
+      "address": "12 Cầu Giấy, Hà Nội",
+      "current_education": {
+        "university_major": "Công nghệ thông tin",
+        "class_name": "SD18301",
+        "enrollment_year": 2024,
+        "study_mode": "Liên thông",
+        "status": "Đang học",
+        "current_semester": 5
+      },
+      "previous_education": {
+        "college_name": "Cao đẳng FPT Polytechnic",
+        "college_major": "Lập trình Mobile",
+        "graduation_year": 2023,
+        "college_gpa": 8.5,
+        "degree_rank": "Giỏi",
+        "graduation_certificate_id": "TN2023/001"
+      },
+      "transfer_info": {
+        "exempted_credits": 45,
+        "required_credits": 85,
+        "admission_method": "Xét tuyển hồ sơ"
+      },
+      "created_at": "2024-01-10T08:00:00Z"
+    },
+    {
+      "id": "2",
+      "student_code": "PH67890",
+      "full_name": "Trần Thị Mai",
+      "email": "maitt@fpt.edu.vn",
+      "phone": "0982222222",
+      "gender": "Nữ",
+      "date_of_birth": "2002-07-22",
+      "citizen_id": "001202005678",
+      "address": "45 Quận 3, TP.HCM",
+      "current_education": {
+        "university_major": "Digital Marketing",
+        "class_name": "DM18302",
+        "enrollment_year": 2024,
+        "study_mode": "Liên thông",
+        "status": "Đang học",
+        "current_semester": 5
+      },
+      "previous_education": {
+        "college_name": "Cao đẳng Kinh tế Đối ngoại",
+        "college_major": "Marketing Thương mại",
+        "graduation_year": 2023,
+        "college_gpa": 7.2,
+        "degree_rank": "Khá",
+        "graduation_certificate_id": "TN2023/002"
+      },
+      "transfer_info": {
+        "exempted_credits": 30,
+        "required_credits": 100,
+        "admission_method": "Thi tuyển đầu vào"
+      },
+      "created_at": "2024-01-11T09:00:00Z"
+    },
+    {
+      "id": "3",
+      "student_code": "PH55555",
+      "full_name": "Lê Hoàng Nam",
+      "email": "namlh@fpt.edu.vn",
+      "phone": "0983333333",
+      "gender": "Nam",
+      "date_of_birth": "2001-12-05",
+      "citizen_id": "001201009999",
+      "address": "88 Nguyễn Trãi, Thanh Xuân, Hà Nội",
+      "current_education": {
+        "university_major": "Thiết kế đồ họa",
+        "class_name": "GD18305",
+        "enrollment_year": 2023,
+        "study_mode": "Vừa làm vừa học",
+        "status": "Bảo lưu",
+        "current_semester": 6
+      },
+      "previous_education": {
+        "college_name": "Cao đẳng Nghệ thuật Hà Nội",
+        "college_major": "Thiết kế nội thất",
+        "graduation_year": 2022,
+        "college_gpa": 8,
+        "degree_rank": "Giỏi",
+        "graduation_certificate_id": "TN2022/055"
+      },
+      "transfer_info": {
+        "exempted_credits": 40,
+        "required_credits": 90,
+        "admission_method": "Xét tuyển hồ sơ"
+      },
+      "created_at": "2023-08-15T10:00:00Z"
+    },
+    {
+      "id": "4",
+      "student_code": "PH44444",
+      "full_name": "Phạm Minh Tuấn",
+      "email": "tuanpm@fpt.edu.vn",
+      "phone": "0984444444",
+      "gender": "Nam",
+      "date_of_birth": "2002-01-15",
+      "citizen_id": "001202008888",
+      "address": "Số 5, Liên Chiểu, Đà Nẵng",
+      "current_education": {
+        "university_major": "Quản trị khách sạn",
+        "class_name": "HM18301",
+        "enrollment_year": 2024,
+        "study_mode": "Liên thông",
+        "status": "Đang học",
+        "current_semester": 4
+      },
+      "previous_education": {
+        "college_name": "Cao đẳng Du lịch Đà Nẵng",
+        "college_major": "Lễ tân",
+        "graduation_year": 2023,
+        "college_gpa": 6.8,
+        "degree_rank": "Trung bình Khá",
+        "graduation_certificate_id": "TN2023/088"
+      },
+      "transfer_info": {
+        "exempted_credits": 25,
+        "required_credits": 105,
+        "admission_method": "Thi tuyển đầu vào"
+      },
+      "created_at": "2024-02-01T14:30:00Z"
+    },
+    {
+      "id": "5",
+      "student_code": "PH33333",
+      "full_name": "Đỗ Thị Hương",
+      "email": "huongdt@fpt.edu.vn",
+      "phone": "0985555555",
+      "gender": "Nữ",
+      "date_of_birth": "2002-11-20",
+      "citizen_id": "001202007777",
+      "address": "TP. Buôn Ma Thuột, Đắk Lắk",
+      "current_education": {
+        "university_major": "Ngôn ngữ Anh",
+        "class_name": "EL18303",
+        "enrollment_year": 2024,
+        "study_mode": "Liên thông",
+        "status": "Đang học",
+        "current_semester": 5
+      },
+      "previous_education": {
+        "college_name": "Cao đẳng Sư phạm Đắk Lắk",
+        "college_major": "Sư phạm Tiếng Anh",
+        "graduation_year": 2023,
+        "college_gpa": 8.9,
+        "degree_rank": "Giỏi",
+        "graduation_certificate_id": "TN2023/111"
+      },
+      "transfer_info": {
+        "exempted_credits": 50,
+        "required_credits": 80,
+        "admission_method": "Xét tuyển thẳng"
+      },
+      "created_at": "2024-01-20T11:15:00Z"
+    },
+    {
+      "id": "6",
+      "student_code": "PH22222",
+      "full_name": "Vũ Văn Long",
+      "email": "longvv@fpt.edu.vn",
+      "phone": "0986666666",
+      "gender": "Nam",
+      "date_of_birth": "2000-05-30",
+      "citizen_id": "001200006666",
+      "address": "Bình Thạnh, TP.HCM",
+      "current_education": {
+        "university_major": "Công nghệ thông tin",
+        "class_name": "SD18302",
+        "enrollment_year": 2023,
+        "study_mode": "Liên thông",
+        "status": "Thôi học",
+        "current_semester": 4
+      },
+      "previous_education": {
+        "college_name": "Cao đẳng Công nghệ Thủ Đức",
+        "college_major": "Mạng máy tính",
+        "graduation_year": 2021,
+        "college_gpa": 6.5,
+        "degree_rank": "Trung bình Khá",
+        "graduation_certificate_id": "TN2021/222"
+      },
+      "transfer_info": {
+        "exempted_credits": 35,
+        "required_credits": 95,
+        "admission_method": "Thi tuyển đầu vào"
+      },
+      "created_at": "2023-05-10T09:00:00Z"
+    },
+    {
+      "id": "7",
+      "student_code": "PH11111",
+      "full_name": "Ngô Thị Lan",
+      "email": "lannt@fpt.edu.vn",
+      "phone": "0987777777",
+      "gender": "Nữ",
+      "date_of_birth": "2002-09-09",
+      "citizen_id": "001202005555",
+      "address": "Biên Hòa, Đồng Nai",
+      "current_education": {
+        "university_major": "Kế toán",
+        "class_name": "KT18301",
+        "enrollment_year": 2024,
+        "study_mode": "Liên thông",
+        "status": "Đang học",
+        "current_semester": 5
+      },
+      "previous_education": {
+        "college_name": "Cao đẳng Tài chính Hải quan",
+        "college_major": "Kế toán doanh nghiệp",
+        "graduation_year": 2023,
+        "college_gpa": 8.2,
+        "degree_rank": "Giỏi",
+        "graduation_certificate_id": "TN2023/333"
+      },
+      "transfer_info": {
+        "exempted_credits": 45,
+        "required_credits": 85,
+        "admission_method": "Xét tuyển hồ sơ"
+      },
+      "created_at": "2024-02-15T15:45:00Z"
+    },
+    {
+      "id": "8",
+      "student_code": "PH99999",
+      "full_name": "Đinh Văn Khánh",
+      "email": "khanhdv@fpt.edu.vn",
+      "phone": "0988888888",
+      "gender": "Nam",
+      "date_of_birth": "2001-04-12",
+      "citizen_id": "001201004444",
+      "address": "Hải Châu, Đà Nẵng",
+      "current_education": {
+        "university_major": "Cơ khí",
+        "class_name": "ME18301",
+        "enrollment_year": 2024,
+        "study_mode": "Liên thông",
+        "status": "Đang học",
+        "current_semester": 3
+      },
+      "previous_education": {
+        "college_name": "Cao đẳng Cao Thắng",
+        "college_major": "Công nghệ ô tô",
+        "graduation_year": 2022,
+        "college_gpa": 7.5,
+        "degree_rank": "Khá",
+        "graduation_certificate_id": "TN2022/444"
+      },
+      "transfer_info": {
+        "exempted_credits": 30,
+        "required_credits": 100,
+        "admission_method": "Thi tuyển đầu vào"
+      },
+      "created_at": "2024-03-01T08:30:00Z"
+    },
+    {
+      "id": "9",
+      "student_code": "PH88888",
+      "full_name": "Bùi Thị Yến",
+      "email": "yenbt@fpt.edu.vn",
+      "phone": "0989999999",
+      "gender": "Nữ",
+      "date_of_birth": "2002-02-28",
+      "citizen_id": "001202003333",
+      "address": "Long Biên, Hà Nội",
+      "current_education": {
+        "university_major": "Logistics",
+        "class_name": "LG18301",
+        "enrollment_year": 2024,
+        "study_mode": "Liên thông",
+        "status": "Đang học",
+        "current_semester": 5
+      },
+      "previous_education": {
+        "college_name": "Cao đẳng Giao thông Vận tải",
+        "college_major": "Khai thác vận tải",
+        "graduation_year": 2023,
+        "college_gpa": 7.9,
+        "degree_rank": "Khá",
+        "graduation_certificate_id": "TN2023/555"
+      },
+      "transfer_info": {
+        "exempted_credits": 35,
+        "required_credits": 95,
+        "admission_method": "Xét tuyển hồ sơ"
+      },
+      "created_at": "2024-01-05T13:20:00Z"
+    }
+  ]
+}
