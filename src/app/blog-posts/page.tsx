@@ -17,6 +17,8 @@ export default function BlogPostList() {
     syncWithLocation: true,
   });
 
+  console.log(result)
+
   const {
     result: { data: categories },
     query: { isLoading: categoryIsLoading },

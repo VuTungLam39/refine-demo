@@ -12,7 +12,6 @@ import {
   Typography,
 } from "antd";
 import React, { useContext } from "react";
-
 const { Text } = Typography;
 const { useToken } = theme;
 
